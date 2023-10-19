@@ -1,4 +1,4 @@
-package com.coherentsolutions;
+package com.coherentsolutions.task2;
 
 public interface DatabaseService {
     void create(String data);

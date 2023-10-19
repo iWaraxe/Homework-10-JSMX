@@ -1,4 +1,4 @@
-package com.coherentsolutions;
+package com.coherentsolutions.task1;
 
 public class ArrayUtilities {
     public int findMax(int[] arr) {

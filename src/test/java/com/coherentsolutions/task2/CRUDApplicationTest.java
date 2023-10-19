@@ -1,5 +1,6 @@
-package com.coherentsolutions;
+package com.coherentsolutions.task2;
 
+import com.coherentsolutions.task2.DatabaseService;
 import org.junit.Test;
 import static org.mockito.Mockito.*;
 import static org.junit.Assert.*;

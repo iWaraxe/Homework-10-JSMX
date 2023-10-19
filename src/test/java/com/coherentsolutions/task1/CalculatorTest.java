@@ -1,5 +1,6 @@
-package com.coherentsolutions;
+package com.coherentsolutions.task1;
 
+import com.coherentsolutions.task1.Calculator;
 import org.junit.Test;
 import static org.junit.Assert.*;
 

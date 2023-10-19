@@ -1,4 +1,4 @@
-package com.coherentsolutions;
+package com.coherentsolutions.task1;
 
 public class StringManipulator {
     public String reverse(String str) {

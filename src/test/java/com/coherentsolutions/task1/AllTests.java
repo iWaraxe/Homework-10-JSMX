@@ -1,14 +1,6 @@
-package com.coherentsolutions;
+package com.coherentsolutions.task1;
 
-import org.junit.runner.RunWith;
-import org.junit.runners.Suite;
-
-@RunWith(Suite.class)
-@Suite.SuiteClasses({
-        CalculatorTest.class,
-        StringManipulatorTest.class,
-        ArrayUtilitiesTest.class
-})
 public class AllTests {
-    // This class remains empty, used only as a holder for the above annotations
+    // Your task is to convert this class into a JUnit test suite.
+    // Hint: You will need to add appropriate annotations and import statements.
 }
