@@ -35,7 +35,3 @@
 ---
 
 By following the guidelines mentioned in the rubric, you can aim for a maximum grade of 100. Make sure to adhere to the best practices discussed during the lecture. Good luck!
-
----
-
-Feel free to adjust these Markdown files as needed to better suit your requirements.
